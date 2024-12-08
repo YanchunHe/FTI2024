@@ -7,3 +7,6 @@
 [submodule "BIR"]
 	path = BIR
 	url = git@github.com:YanchunHe/BIR.git
+[submodule "NKS"]
+	path = NKS
+	url = git@github.com:YanchunHe/NKS.git
