@@ -1,0 +1,61 @@
+129I/236U, Tc99/236U tracer pairs.
+
+Reprocessing U236 signal isolated from other sources,e.g., global fallout.
+(e.g., 129I, 236U, 99Tc).
+
+Releases of radionuclides from the nuclear fuel reprocessing plants at Sellafield and La Hague have provided unique tracers for studies of in the local environment and larger =scale circculation process of the North Atlantic and Arctic Ocean (Casacuberta 2022)
+
+The previous study used an empirical transfer factor to estimate the input function (see Smith 2005 and reference, smith 2016). Validated transfer factor along NCC by validated model simulation will give a much better estimate.
+
+Can estimate the transport time with TTD model (as Smith 2016) between NRP and Norwegian Coast (provide potential for application in the Fjord). And the Norwegian Current and Arctic Ocean?
+
+On the way northward, the contaminated water with radionuclides mixes with the AW along the way in the in the North Seas and the Norwegian coast, and imprint the AW water in the ocean surface and flow northward towards the Arctic Ocean and then back southward into deep North Atlantic to the south . The reprocessing tracers are effective in connecting oceans and delineating flow pathways along even more distant intervals of the AMOC.
+
+Multiple tracers provide considerable insights into the ocean’s flow with advective and mixing processes; combination of independent tracers can provide powerful constraints on the water mass transit-times from its sources to the places of interests.
+
+Decadal changes: of the transit time. The previous compilations are based on 1990s data. The Arctic Oscilation strongly affect the AW water intrusion and residence in the Arctic. More recent data can provide a better insight on the decadal changes of the AW in Arctic, and find clue where it is natural decadal variabibility or due to anthropogenic changes.
+
+Improved reconstruction of historical inputs of 236U from the reprocessing plants. Validated against datasets by combining model simulation and observations. And additionally have good Tc-99 data, with coverage in the Nordic Seas. Will use 236U-129I, and Tc99-129I tracer pairs. To determine circulation timescales and mixing paramters of the AW to the arctic. 
+
+The question of Atlantification may raise regarding the impact of Arctic atmospheric and oceanic regime shift or from anthropogenic impact, i.e.g, high latitude and arctic warming?
+
+A major shortcoming of early ocean tracer studies is that they neglected mixing and generally assumed advective flow. The flow of water arriving at specific location is more accurately characterized by a range of transit times termed the transit time distribution. Mass transport in the Arctic Ocean is significatnly influenced by multiple modes of mixing. Application of the TTD on the transport of reprocessing plants tracer pairs, 129I and 236U, complementing ventilation rates estimates from the gass tracers sF6 and CFC.
+
+Fit well with the Global and Polar Themes of BCCR.
+3 partners from 3 BCCR institutions involved.
+
+
+
+
+With the support by some previous Bjerknes visiting fellowship and some other projects, we have produced quite some good results of simulated nuclear fuel reprocessing plant tracers and compiled a good observational dataset to be compared with.  The primary objective of these previous work is to study their impacts on their marine environment under current and future climate.  On that, we have built good network with our Danish colleagues and produced some promising outcomes, for many future potentials.
+
+One potential is application on the Atlantic water mass transport study. The release of radionuclides from the nuclear fuel reprocessing plants at Sellafield and La Hague provide unique opportunities to tag the Atlantic-originated waters in the Nordic Seas and the Arctic Ocean, and track them along southward back into the deep North Atlantic to the subtropics.
+
+And the outcome of this project, if funded will potentially benefit other relevant projects on model evaluations, ocean connectivity, decadal ocean variability and fjord ventilation etc. And will of course strengthen the collaboration network, as meant by the BCCR FTI.
+
+
+
+
+
+
+
+
+Outcome:
+Transit time distribution by models (mode time, and distribution by boundary impulse propagator), observations (TTD), and Langrangian particle simulations from the GLORYS12V1
+Validated and reconstructed discharge data, which provide easy interface  for model to include the reprocessing plants tracer in their simulation, and dataset for evaluation in their model. (data will be published to scientific dataset).
+
+Project connection/impact:
+TOPAZ system,
+ArMOC
+Built on the previous BVF network.
+
+
+
+
+
+
+
+Smith, J. N., W. M. Smethie Jr., I. Yashayev, R. Curry, and K. Azetsu-Scott (2016), Time series measurements of transient tracers and tracer-derived transport in the Deep Western Boundary Current between the Labrador Sea and the subtropical Atlantic Ocean at Line W, J. Geophys.  Res. Oceans , 121 , 8115–8138, doi:10.1002/2016JC0117
+
+Smith, J. N., E. P. Jones, S. B. Moran, W. M. Smethie Jr., and W. E. Kieser (2005), Iodine 129/CFC 11 transit times for Denmark Strait Overflow Water in the Labrador and Irminger Seas, J. Geophys. Res.  , 110 , C05006, doi:10.1029/2004J
+

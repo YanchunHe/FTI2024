@@ -1,0 +1,9 @@
+[submodule "RadTTD"]
+	path = RadTTD
+	url = git@github.com:YanchunHe/RadTTD.git
+[submodule "Radionuclides"]
+	path = Radionuclides
+	url = git@github.com:YanchunHe/Radionuclides.git
+[submodule "BIR"]
+	path = BIR
+	url = git@github.com:YanchunHe/BIR.git
